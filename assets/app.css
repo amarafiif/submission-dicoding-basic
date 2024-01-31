@@ -247,8 +247,18 @@ aside {
 	font-size: 24px;
 }
 
-.social li:hover {
+.social a {
+	color: #475569;
+}
+
+.social a:hover {
 	color: #0ea5e9;
+}
+
+.quote {
+	color: #475569;
+	font-size: 18px;
+	padding: 10px 15px;
 }
 
 @media screen and (max-width: 600px) {
